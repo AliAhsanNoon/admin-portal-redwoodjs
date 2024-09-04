@@ -8,7 +8,7 @@
 [web]
   title = "Admin Portal"
   port = 8910
-  apiUrl = "https://admin-portal-redwoodjs-hucj1m2ru-ali-ahsan-noons-projects.vercel.app/.redwood/functions"
+  apiUrl = "/.redwood/functions"
   #"/.redwood/functions" # You can customize graphql and dbauth urls individually too: see https://redwoodjs.com/docs/app-configuration-redwood-toml#api-paths
 
   includeEnvironmentVariables = [
